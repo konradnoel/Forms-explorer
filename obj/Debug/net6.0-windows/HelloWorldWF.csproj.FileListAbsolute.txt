@@ -1,0 +1,17 @@
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.exe
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.deps.json
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.runtimeconfig.json
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.dll
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.pdb
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.csproj.AssemblyReference.cache
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.csproj.GenerateResource.cache
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.AssemblyInfoInputs.cache
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.AssemblyInfo.cs
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.csproj.CoreCompileInputs.cache
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.dll
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\refint\HelloWorldWF.dll
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.pdb
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.genruntimeconfig.cache
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\ref\HelloWorldWF.dll
+C:\Users\konra\Desktop\Mappák\BME\Sznikák\Lab3\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.MainForm.resources
